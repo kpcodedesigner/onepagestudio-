@@ -22,7 +22,6 @@ img {
     height: auto;
 }
 button:focus {
-    outline: 1px dotted;
     outline: unset;
 }
 :focus {
