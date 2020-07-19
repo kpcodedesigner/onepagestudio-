@@ -1,0 +1,153 @@
+﻿
+@media (max-width: 1200px) {
+
+    .testimonial_img img{
+        width:100%;
+    }
+    .quata_img img {
+        right: 15px;
+    }
+	
+	.services_main {
+		width: 100%;
+		margin: 0px auto;
+	}
+
+}
+
+@media (max-width: 991px) {
+
+    /****************** Banner ************************/
+
+    .banner_caption {
+        text-align: center;
+        padding: 25% 0%;
+    }
+
+    .banner_caption h1 {
+        font-size: 40px;
+        line-height: 1.5;
+    }
+    .quata_img img {
+        right: 0px;
+        top: 5px;
+    }
+    .social_icon_contact i {
+        padding-left: 5px;
+        padding-right: 5px;
+        font-size: 16px;
+    }
+
+    .top_banner_desk {
+        font-size: 18px;
+        padding: 5% 08% 3%;
+    }
+    .counter_box h1{
+        font-size:30px;
+    }
+
+    ul.navbar-nav.ml-auto.header_manu li a {
+        color: #000 !important;
+        padding-left: 20px !important;
+        padding-top: 15px !important;
+        padding-bottom: 12px !important;
+    }
+
+    ul.navbar-nav.ml-auto.header_manu {
+        background-color: #fff;
+        margin-top: 20px !important;
+    }
+
+    nav.footer_menu ul {
+        display: block;
+        list-style: none;
+        padding-inline-start: 0px;
+    }
+    nav.footer_menu ul li {
+        margin-bottom: 10px;
+    }
+
+
+}
+
+@media (max-width: 767px) {
+
+    .quata_img img {
+        right: 60px;
+    }
+    .testimonial_img img {
+        width: 100%;
+        margin-bottom: 40px;
+    }
+    .call_box_desc {
+        margin-bottom: 50px;
+    }
+
+}
+@media (max-width: 600px) {
+
+    /****************** Banner ************************/
+
+
+    .white_bg_desk h3, .white_bg_desk h1, .white_bg_desk p, .white_bg_desk h5, .white_bg_desk h6, .blue_bg_desk h3, .blue_bg_desk h1, .blue_bg_desk p, .call_box_desc h1, .call_box_desc p, .buiiness_plan_Call_to_action, .testimonial, .contact_head_text h4, .contact_head_text h1 {
+        text-align: center;
+    }
+
+    .white_bg_desk h1, .blue_bg_desk h1 {
+        font-size: 40px;
+    }
+
+    section.contact_touch {
+        padding: 100px 0px 80px;
+    }
+
+    .banner_caption {
+        text-align: center;
+        padding: 40% 0%;
+    }
+    .contact_info {
+        margin-top: 50px;
+    }
+
+    .banner_caption h1 {
+        font-size: 34px;
+        line-height: 1.5;
+    }
+    .call_box_desc h1 {
+        font-size: 40px;
+    }
+
+    .top_banner_desk {
+        font-size: 18px;
+        padding: 5% 0% 5%;
+    }
+    .quata_img img {
+        right: 20px;
+        top: 40px;
+    }
+    .services_main {
+        padding: 40px 12px 20px;
+    }
+    .services_main .services_individual {
+        padding-right: 0;
+        margin-bottom: 20px;
+    }
+}
+
+@media (max-width: 400px) {
+
+    img.Header_logo {
+        width: 200px;
+    }
+    
+}
+
+@media (max-width: 320px) {
+
+    .our_project_box ul.slick-dots li button, .our_team_box ul.slick-dots li button {
+        width: 20px;
+    }
+    .white_bg_desk h1, .blue_bg_desk h1 {
+        font-size: 30px;
+    }
+}
